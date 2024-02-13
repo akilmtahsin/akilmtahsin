@@ -17,6 +17,6 @@ I'm currently focusing on mastering Flutter.
 - [Twitter](Your Twitter Profile URL)
 <hr>
 
-[![Akil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akilmtahsin&theme=react-dark&custom_title=Akil%27s%20GitHub%20Activity%20Graph)
+![Akil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akilmtahsin&theme=react-dark&custom_title=Akil%27s%20GitHub%20Activity%20Graph)
 
 
