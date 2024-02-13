@@ -9,7 +9,7 @@ I'm a software development enthusiast currently diving into the world of Flutter
 - Blockchain
 
 ## Current Learning Focus
-I'm currently focusing on mastering JavaScript and its various frameworks and libraries.
+I'm currently focusing on mastering Flutter.
 
 ## Connect with Me
 - [GitHub](https://github.com/ak1ltahsin)
