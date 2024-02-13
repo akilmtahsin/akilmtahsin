@@ -15,5 +15,7 @@ I'm currently focusing on mastering Flutter.
 - [GitHub](https://github.com/ak1ltahsin)
 - [LinkedIn](Your LinkedIn Profile URL)
 - [Twitter](Your Twitter Profile URL)
+<hr>
+![Akil's Graph](https://github-readme-activity-graph.vercel.app/graph?username=akilmtahsin&theme=react-dark&custom_title=Akil%27s%20GitHub%20Activity%20Graph)
 
 
