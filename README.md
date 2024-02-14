@@ -3,8 +3,6 @@
 ## 👤 About Me
 I'm a software development and tech enthusiast from Bangladesh 🇧🇩. I enjoy learning new technologies and building cool projects.
 
-:flag_bangladesh:
-
 ## 🔮 My Hobbies and Interests
 - Mobile App Development
 - Web Development
