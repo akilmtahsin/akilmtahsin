@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Akil Mohammad Tahsin</h1>
 
-## About Me
-I'm a software developer and tech enthusiast from Bangladesh 🇧🇩. I enjoy learning new technologies and building cool projects.
+## 👤 About Me
+I'm a software development and tech enthusiast from Bangladesh 🇧🇩. I enjoy learning new technologies and building cool projects.
 
-## My Hobbies and Interests
+:flag_bangladesh:
+
+## 🔮 My Hobbies and Interests
 - Mobile App Development
 - Web Development
 - Blockchain
 - Photography
 
-## Languages and Tools
+## ✨ Languages and Tools
 
 - Languages
 <p align="left">
@@ -48,10 +50,10 @@ I'm a software developer and tech enthusiast from Bangladesh 🇧🇩. I enjoy l
 </p>
 
 
-## Current Learning Focus
+## 🎯 Current Learning Focus
 I'm currently focusing on learning Flutter.
 
-## Connect With Me
+## 🔗 Connect With Me
 <p align="left">
 <a href="https://linkedin.com/in/akilmtahsin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akilmtahsin" height="30" width="40" /></a>
 <a href="https://facebook.com/akilmtahsin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akilmtahsin" height="30" width="40" /></a>
@@ -60,7 +62,7 @@ I'm currently focusing on learning Flutter.
 <a href="mailto:akilmtahsin@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="akilmtahsin" height="40" width="40" /></a>
 </p>
 
-## My Recent Acitivity
+## 📈 My Recent Acitivity
 ![Akil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akilmtahsin&theme=react-dark&custom_title=Akil%27s%20GitHub%20Activity%20Graph)
 
 
