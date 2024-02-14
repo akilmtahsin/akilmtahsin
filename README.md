@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akil Mohammad Tahsin</h1>
 
 ## About Me
-I'm a software development and tech enthusiast from Bangladesh 🇧🇩. I enjoy learning new technologies and building cool projects.
+I'm a software developer and tech enthusiast from Bangladesh 🇧🇩. I enjoy learning new technologies and building cool projects.
 
 ## My Hobbies and Interests
 - Mobile App Development
