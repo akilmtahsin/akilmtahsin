@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akil Mohammad Tahsin</h1>
 
 ## 👤 About Me
-I'm a software developer and tech enthusiast from Bangladesh 🇧🇩. I enjoy learning new technologies and building cool projects.
+I'm a Software Engineer and tech enthusiast from Bangladesh 🇧🇩. I enjoy learning new technologies and building cool projects.
 
 ## 🔮 My Hobbies and Interests
-- Mobile App Development
 - Web Development
 - Blockchain
 - Photography
@@ -14,24 +13,16 @@ I'm a software developer and tech enthusiast from Bangladesh 🇧🇩. I enjoy l
 - Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,js,dart,solidity" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,js,php,solidity" />
   </a>
 </p>
 
-- Frontend
+- Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind,laravel" />
   </a>
 </p>
-
-- Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express"/>
-  </a>
-</p>
-
 
 - Database
 <p align="left">
@@ -49,7 +40,7 @@ I'm a software developer and tech enthusiast from Bangladesh 🇧🇩. I enjoy l
 
 
 ## 🎯 Current Learning Focus
-I'm currently focusing on learning Flutter.
+I'm currently focusing on learning Laravel
 
 ## 🔗 Connect With Me
 <p align="left">
