@@ -51,7 +51,8 @@ I'm currently focusing on learning Laravel
 <a href="mailto:akilmtahsin@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="akilmtahsin" height="40" width="40" /></a>
 </p>
 
-## 📈 My Recent Acitivity
+## 📈 My Recent Activity 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=akilmtahsin&theme=dark)](https://git.io/streak-stats)
 ![Akil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akilmtahsin&theme=react-dark&custom_title=Akil%27s%20GitHub%20Activity%20Graph)
 
 
