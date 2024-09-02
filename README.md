@@ -52,7 +52,7 @@ I'm currently focusing on learning Laravel
 </p>
 
 ## 📈 My Recent Activity 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=akilmtahsin&theme=dark&width=700px)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=akilmtahsin&theme=dark&card_width=800)](https://git.io/streak-stats)
 ![Akil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akilmtahsin&theme=react-dark&custom_title=Akil%27s%20GitHub%20Activity%20Graph)
 
 
