@@ -38,9 +38,31 @@ I'm a Software Engineer and tech enthusiast from Bangladesh 🇧🇩. I enjoy le
   </a>
 </p>
 
+## 📈 My Recent Activity 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=akilmtahsin&theme=dark&card_width=1180)](https://git.io/streak-stats)
+![Akil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akilmtahsin&theme=react-dark&custom_title=Akil%27s%20GitHub%20Activity%20Graph)
 
-## 🎯 Current Learning Focus
-I'm currently focusing on learning Laravel
+## 🔍 Github Stats
+
+<table>
+<tbody>
+
+<tr>
+<td>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akilmtahsin&layout=donut&theme=dark)
+
+</td>
+
+<td>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=akilmtahsin&show_icons=true&theme=dark)
+
+</td>
+</tr>
+
+</tbody>
+</table>
 
 ## 🔗 Connect With Me
 <p align="left">
@@ -51,8 +73,6 @@ I'm currently focusing on learning Laravel
 <a href="mailto:akilmtahsin@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="akilmtahsin" height="40" width="40" /></a>
 </p>
 
-## 📈 My Recent Activity 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=akilmtahsin&theme=dark&card_width=1180)](https://git.io/streak-stats)
-![Akil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akilmtahsin&theme=react-dark&custom_title=Akil%27s%20GitHub%20Activity%20Graph)
+
 
 
