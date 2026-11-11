@@ -38,19 +38,19 @@ I'm a Software Engineer and tech enthusiast from Bangladesh 🇧🇩. I enjoy le
   </a>
 </p>
 
+<!--
 ## 🔍 Github Stats
 
 <table>
 <tbody>
-<!--
 <tr>
 <td> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akilmtahsin&layout=donut&theme=dark) </td>
 <td> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=akilmtahsin&show_icons=true&theme=dark) </td>
 </tr>
- -->
   
 </tbody>
 </table>
+ -->
 
 ## 📈 My Recent Activity 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=akilmtahsin&theme=dark&card_width=1180)](https://git.io/streak-stats)
